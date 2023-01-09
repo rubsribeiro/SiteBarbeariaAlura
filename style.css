@@ -2,6 +2,12 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+main {
+    position: relative;
+    width: 940px;
+    margin: 0 auto ;
+}
+
 header {
     background: #BBBBBB;
     padding: 20px 0;
